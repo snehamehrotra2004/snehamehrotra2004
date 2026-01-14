@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey There, Myself Sneha Mehrotra👋</h1>
 
 ###
 
@@ -28,15 +28,7 @@
 
 <p align="left">
 
--Aspiring Data Analyst with hands-on experience in Python, NumPy, Pandas, and SQL.
 
--Focused on data cleaning, exploratory data analysis (EDA), and working with real-world datasets.
-
--I enjoy transforming raw data into meaningful insights through structured analysis.
-
--Currently building and sharing data analytics projects to strengthen practical skills.
-
--Open to internships and entry-level Data Analyst opportunities.
 
 
 </p>
@@ -48,7 +40,7 @@
 ###
 
 <div align="left">
-  <img src="https://wallpapercave.com/wp/wp15299096.png" height="80" alt="go logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/960px-Java_programming_language_logo.svg.png" height="80" alt="go logo"  />
   <img width="12" />
   <img src="https://hangtenseo.com/wp-content/uploads/2019/10/Python-Logo.png" height="70" alt="rust logo"  />
   <img width="12" />
