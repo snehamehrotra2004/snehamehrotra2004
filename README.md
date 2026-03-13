@@ -18,7 +18,7 @@
 <p align="left">
 Final year B.Tech CSE student at <b>BBDITM (AKTU)</b>, Lucknow. I am a passionate <b>Data Analyst</b> aspirant. I enjoy uncovering trends in data and building visual stories through dashboards.
 <br><br>
-🚀 <b>Current Projects:</b> Student Performance Analysis, IPL Performance Dashboard, and Spam Email Detection.<br>
+🚀 <b>Current Projects:</b> Student Performance Analysis, IPL Performance Dashboard and Spam Email Detection.<br>
 📍 <b>Location:</b> Lucknow, India<br>
 🎯 <b>Goal:</b> To transform complex data into actionable insights.
 </p>
