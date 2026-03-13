@@ -1,72 +1,46 @@
 <div align="center">
-  <img height="250" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data-Analytics.gif"  />
+  <img height="250" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data-Analytics.gif" />
 </div>
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sneha-mehrotra-31569b399/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
- <a href="https://github.com/snehamehrotra2004"> <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
- 
+  <a href="https://www.linkedin.com/in/sneha-mehrotra-31569b399/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="https://github.com/snehamehrotra2004/snehamehrotra2004"> <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" /></a>
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akash1234805.akash1234805&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=snehamehrotra2004.snehamehrotra2004" />
 </div>
 
-###
+<h1 align="center">Hey There, I'm Sneha Mehrotra 👋</h1>
 
-<h1 align="center">Hey There, Myself Sneha Mehrotra👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+<h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-
-
-
-
+Final year B.Tech CSE student at <b>BBDITM (AKTU)</b>, Lucknow. I am a passionate <b>Data Analyst</b> aspirant. I enjoy uncovering trends in data and building visual stories through dashboards.
+<br><br>
+🚀 <b>Current Projects:</b> Student Performance Analysis, IPL Performance Dashboard, and Spam Email Detection.<br>
+📍 <b>Location:</b> Lucknow, India<br>
+🎯 <b>Goal:</b> To transform complex data into actionable insights.
 </p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/960px-Java_programming_language_logo.svg.png" height="80" alt="go logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" alt="python logo" />
   <img width="12" />
-  <img src="https://hangtenseo.com/wp-content/uploads/2019/10/Python-Logo.png" height="70" alt="rust logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="sql logo" />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*Qumh8xK3v10_KrUp5181uQ.png" height="70" alt="ruby logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehamehrotra2004&show_icons=true&theme=dark" height="170" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=snehamehrotra2004&theme=dark" height="170" alt="streak graph" />
 </div>
-
-###
+</div>
